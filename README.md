@@ -2,10 +2,10 @@
 
 <div align="center">
 <h3>Study</h3>
-<a href="https://github.com/KingJiwon/js_deep_dive">
+<a style="text-decoration:none" href="https://github.com/KingJiwon/js_deep_dive">
 <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=yellow" />
 </a>
-<a href="https://www.notion.so/StudyNote-0663f4e6bae247f0a54a8902fbd9acba?pvs=4">
+<a style="text-decoration:none" href="https://www.notion.so/StudyNote-0663f4e6bae247f0a54a8902fbd9acba?pvs=4">
 <img src="https://img.shields.io/badge/Study Note-20232a.svg?style=for-the-badge&logo=notion&logoColor=eeeeee" />
 </a>
 
